@@ -11,6 +11,6 @@ public class TestController {
 
     @RequestMapping(value = "/hello", method = RequestMethod.GET)
     public String test() {
-        return "hello springboot k8s -------测试--我修改了代码202108231545";
+        return "hello springboot k8s -------测试--我修改了代码202108231629";
     }
 }
